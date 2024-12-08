@@ -1,5 +1,7 @@
 
-![AIRA Banner](../assets/AIRA-Banner.png)
+<div align="center">
+      <img src="../assets/AIRA-Banner.png" alt="Logo">
+</div>
 
 <h1 align="center">AIRA (C242-PS540)</h1>
 <p align="center"><em>Your piano journey AI-companion</em></p>
