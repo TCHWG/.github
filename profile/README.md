@@ -33,9 +33,6 @@ While professional lessons can address these challenges, they come with their ow
 | C272B4KY2606 | Muh Rayhan Fahreza |  Cloud Computing | Universitas Muslim Indonesia |[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/ryhnfhrza) |
 
 ## Repository
-
-### Cloud Computing
-
  ### 📱 [Android Application Repository](https://github.com/TCHWG/Android-Development)
  The **Android Application** is the user-facing mobile app that provides an interactive piano learning experience with **real-time feedback**. It’s designed to   guide users through their learning journey, ensuring that each practice session is engaging and efficient.
    
