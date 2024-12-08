@@ -1,5 +1,5 @@
 
-![AIRA Banner](./github/assets/AIRA-Banner.png)
+![AIRA Banner](../assets/AIRA-Banner.png)
 
 <h1 align="center">AIRA (C242-PS540)</h1>
 <p align="center"><em>Your piano journey AI-companion</em></p>
